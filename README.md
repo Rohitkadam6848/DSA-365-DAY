@@ -86,4 +86,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1192-critical-connections-in-a-network) |
+## Graph Theory
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1192-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
