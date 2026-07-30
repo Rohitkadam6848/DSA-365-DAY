@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1652-defuse-the-bomb) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -111,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0211-design-add-and-search-words-data-structure) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
