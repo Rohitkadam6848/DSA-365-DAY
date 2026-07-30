@@ -11,12 +11,9 @@ class Solution {
                 if(sum>=k*threshold){
                     count++;
                 }
-                
                 sum-=arr[j];
                 j++;
             }
-
-           
 
         }
         return count;
