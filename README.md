@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0872-leaf-similar-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1192-critical-connections-in-a-network) |
 ## Graph Theory
 |  |
@@ -134,4 +135,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0872-leaf-similar-trees](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0872-leaf-similar-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
