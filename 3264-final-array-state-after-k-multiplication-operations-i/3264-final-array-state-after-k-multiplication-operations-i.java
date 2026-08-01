@@ -1,24 +1,17 @@
 class Solution {
     public int[] getFinalState(int[] nums, int k, int multiplier) {
-        int n=nums.length;
-        int ans[]=new int[n];
 
-        for(int i=0;i<n;i++){
-            ans[i]=nums[i];
-        }
-
-        for(int i=0;i<k;i++){
+        while(k-->0){
             int min=Integer.MAX_VALUE;
             int idx=0;
-            for(int j=0;j<n;j++){
-                if (ans[j] < min) {
-                    min = ans[j];
+            for(int j=1;j<nums.length;j++){
+                if (nums[j] < nums[idx]) {
                     idx = j;
                 }
             }
-            ans[idx]*=multiplier;
+            nums[idx]*=multiplier;
         }
 
-        return ans;
+        return nums;
     }
 }
