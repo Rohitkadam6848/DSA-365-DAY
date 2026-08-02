@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0535-encode-and-decode-tinyurl) |
 | [0917-reverse-only-letters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
