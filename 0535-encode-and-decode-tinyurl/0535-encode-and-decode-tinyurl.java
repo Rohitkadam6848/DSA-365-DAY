@@ -1,25 +1,18 @@
-import java.util.UUID;
 public class Codec {
-    HashMap<String,String> map=new HashMap<>();
-
+        Map<String, String> map = new HashMap<>();
+        int id = 0;
     // Encodes a URL to a shortened URL.
+
     public String encode(String longUrl) {
-        String uniqueId=getUniqueId();
-        map.put(uniqueId,longUrl);
-        return "http://tinyurl.com/"+uniqueId;
+        String shortUrl = "https://tinyurl.com/" + id;
+        map.put(shortUrl, longUrl);
+        id++;
+        return shortUrl;
     }
 
     // Decodes a shortened URL to its original URL.
     public String decode(String shortUrl) {
-        int idx=shortUrl.indexOf(".com/");
-
-        String uniqueId =shortUrl.substring(idx+5);
-        return map.get(uniqueId);
-    }
-
-    private String getUniqueId(){
-        UUID uuid = UUID.randomUUID();
-        return uuid.toString().substring(6);
+        return map.get(shortUrl);
     }
 }
 
