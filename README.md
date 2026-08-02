@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1652-defuse-the-bomb) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3536-maximum-product-of-two-digits) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0229-majority-element-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0535-encode-and-decode-tinyurl) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
@@ -151,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0535-encode-and-decode-tinyurl) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
