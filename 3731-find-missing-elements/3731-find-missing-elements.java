@@ -8,15 +8,19 @@ class Solution {
             return ans;
         }
 
-        HashSet<Integer> set = new HashSet<>();
+        
         for(int i=0;i<nums.length;i++){
-            set.add(nums[i]);
             min=Math.min(min,nums[i]);
             max=Math.max(max,nums[i]);
         }
+        
+        int arr[]=new int[max+1];
+        for(int i:nums){
+            arr[i]++;
+        }
 
         for(int i=min;i<=max;i++){
-            if (!set.contains(i)) {
+            if (arr[i]==0) {
                 ans.add(i);
             }
         }
