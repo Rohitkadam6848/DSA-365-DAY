@@ -3,6 +3,10 @@ class Solution {
         List<Integer> ans=new ArrayList<>();
         int min=Integer.MAX_VALUE;
         int max=Integer.MIN_VALUE;
+        
+        if (nums == null || nums.length == 0) {
+            return ans;
+        }
 
         HashSet<Integer> set = new HashSet<>();
         for(int i=0;i<nums.length;i++){
