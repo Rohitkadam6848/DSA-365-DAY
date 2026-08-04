@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1652-defuse-the-bomb) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3731-find-missing-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3731-find-missing-elements) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Sorting
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3731-find-missing-elements) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
