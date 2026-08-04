@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1652-defuse-the-bomb) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3731-find-missing-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3731-find-missing-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
