@@ -29,9 +29,7 @@ class Solution {
             int u=arr[0];
             int v=arr[1];
 
-            if(vis[u])continue;
-
-            if(vis[v]){
+            if(!vis[u] && vis[v]){
                 List<Integer> ans=new ArrayList<>();
                 for(int i=0;i<n;i++){
                     ans.add(i);
