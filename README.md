@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0875-koko-eating-bananas) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0724-find-pivot-index) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Tree
 |  |
