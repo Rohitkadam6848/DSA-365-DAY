@@ -4,19 +4,19 @@ class Solution {
 
         for(int i=0;i<moves.length();i++){
             if(moves.charAt(i)=='U'){
-                x+=1;
+                x++;
             }else if(moves.charAt(i)=='D'){
-                x-=1;
+                x--;
             }else if(moves.charAt(i)=='R'){
-                y+=1;
+                y++;
             }else if(moves.charAt(i)=='L'){
-                y-=1;
+                y--;
             }
         }
 
         
 
-        return x==0 && y==0?true:false;
+        return x==0 && y==0;
         
     }
 }
