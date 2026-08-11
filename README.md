@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0383-ransom-note) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0535-encode-and-decode-tinyurl) |
 | [0657-robot-return-to-origin](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0771-jewels-and-stones) |
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0950-reveal-cards-in-increasing-order) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0516-longest-palindromic-subsequence) |
 <!---LeetCode Topics End-->
