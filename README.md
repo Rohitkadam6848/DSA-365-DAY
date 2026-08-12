@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -222,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0516-longest-palindromic-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 <!---LeetCode Topics End-->
