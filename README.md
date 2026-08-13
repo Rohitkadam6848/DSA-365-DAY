@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0917-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1092-shortest-common-supersequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1092-shortest-common-supersequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -225,9 +226,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
