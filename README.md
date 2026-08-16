@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0535-encode-and-decode-tinyurl) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0583-delete-operation-for-two-strings) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0392-is-subsequence) |
 | [0917-reverse-only-letters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1092-shortest-common-supersequence) |
