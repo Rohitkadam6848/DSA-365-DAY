@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Simulation
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1603-design-parking-system) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
