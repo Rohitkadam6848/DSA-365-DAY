@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1656-design-an-ordered-stream) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Depth-First Search
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1656-design-an-ordered-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
