@@ -1,181 +1,162 @@
-class Node{
-    int val;
+class Node {
+    int data;
+    Node prev;
     Node next;
 
-    public Node(int val){
-        this.val=val;
-        this.next=null;
+    Node(int data) {
+        this.data = data;
+        this.prev = null;
+        this.next = null;
     }
 }
+
 class FrontMiddleBackQueue {
-    Node head;
-    int size;
+
+    Node front, back, middle;
+    int n = 0;
 
     public FrontMiddleBackQueue() {
-        head=null;
-        size=0;
+        front = null;
+        back = null;
+        middle = null;
     }
     
     public void pushFront(int val) {
-        Node newNode=new Node(val);
+        Node curr = new Node(val);
 
-        if(head==null){
-            head=newNode;
-        }else{
-            newNode.next=head;
-            head=newNode;
-            
+        if(front == null) {
+            front = middle = back = curr;
+        } else {
+            curr.next = front;
+            front.prev = curr;
+            front = curr;
         }
-        size++;
+
+        if(n % 2 != 0) {
+            middle = middle.prev;
+        }
+        n++;
     }
     
     public void pushMiddle(int val) {
-        Node newNode = new Node(val);
-
-        if (head == null) {
-            head = newNode;
-            size++;
-            return;
+        Node curr = new Node(val);
+        if(middle == null) {
+            front = middle = back = curr;
+        } else {
+            if(n % 2 == 0) {
+                curr.next = middle.next;
+                curr.prev = middle;
+                middle.next.prev = curr;
+                middle.next = curr;
+            } else {
+                curr.prev = middle.prev;
+                curr.next = middle;
+                if(middle.prev != null) {
+                    middle.prev.next = curr;
+                }
+                if(n == 1) {
+                    front = curr;
+                }
+                middle.prev = curr;
+            }
+            middle = curr;
         }
-
-        if (size == 1) {
-            newNode.next = head;
-            head = newNode;
-            size++;
-            return;
-        }
-
-        int index = size / 2;
-
-        if (index == 0) {
-            newNode.next = head;
-            head = newNode;
-            size++;
-            return;
-        }
-
-        Node temp = head;
-
-        for (int i = 0; i < index - 1; i++) {
-            temp = temp.next;
-        }
-
-        newNode.next = temp.next;
-        temp.next = newNode;
-
-        size++;
-        
+        n++;
     }
     
     public void pushBack(int val) {
-        Node newNode=new Node(val);
-        if(head==null){
-            head=newNode;
-        }else{
-            Node temp=head;
-            while(temp.next!=null){
-                temp=temp.next;
-            }
-            temp.next=newNode;
+        Node curr = new Node(val);
+        if(back == null) {
+            front = middle = back = curr;
+        } else {
+            back.next = curr;
+            curr.prev = back;
+            back = curr;
         }
 
-        size++;
+        if(n > 0 && n % 2 == 0) {
+            middle = middle.next;
+        }
+        n++;
     }
     
     public int popFront() {
-        if(head==null){
+        if(n == 0) {
             return -1;
         }
+        int val = front.data;
+        Node temp = front;
+        front = front.next;
 
-        if(head.next==null){
-            int val= head.val;
-            head=null;
-            size--;
-            return val;
+        if(front == null) {
+            middle = back = null;
+        } else {
+            front.prev = null;
+            if(n % 2 == 0) {
+                middle = middle.next;
+            }
         }
-
-        int val=head.val;
-        head=head.next;
-        size--;
+        temp.next = null;
+        temp = null;
+        n--;
         return val;
-
-
     }
     
     public int popMiddle() {
-        if(head==null){
+        if(n == 0) {
             return -1;
         }
-        
-        if(head.next==null){
-            int val= head.val;
-            head=null;
-            size--;
-            return val;   
-        }
-        
-        if(size==2){
-            int val=head.val;
-            head=head.next;
-            size--;
-            return val;
-        }
-        
-        int count=0;
-        Node temp=head;
-        Node prev=null;
 
-        while(temp!=null){
-            if(count==(size-1)/2){
-                int val=temp.val;
-                prev.next=temp.next;
-                temp=null;
-                size--;
-                
-                return val;
+        int val = middle.data;
+        Node last = middle.prev;
+        Node forward = middle.next;
+        Node temp = middle;
+        if(n % 2 != 0) {
+            middle = middle.prev;
+            if(middle == null) {
+                front = back = null;
             }
-            count++;
-            prev=temp;
-            temp=temp.next;
+        } else {
+            middle = middle.next;
         }
-    
-        size--;
 
-        return -1;
+        if(last != null) {
+            last.next = temp.next;
+        } else {
+            front = forward;
+        }
+        if(forward != null) {
+            forward.prev = temp.prev;
+        } else {
+            back = last;
+        }
+        temp.next = null;
+        temp.prev = null;
+        temp = null;
+        n--;
+        return val;
     }
     
     public int popBack() {
-        if(head==null){
+        if(n == 0) {
             return -1;
         }
-
-        if(head.next==null){
-            int val= head.val;
-            head=null;
-            size--;
-            return val;
+        int val = back.data;
+        Node temp = back;
+        back = back.prev;
+        if(back == null) {
+            front = middle = null;
+        } else {
+            back.next = null;
+            if(n % 2 != 0) {
+                middle = middle.prev;
+            }
         }
 
-        Node prev=null;
-        Node temp=head;
-        while(temp.next!=null){
-            prev=temp;
-            temp=temp.next;
-        }
-        prev.next=null;
-        size--;
-
-        return temp.val;
+        temp.prev = null;
+        temp = null;
+        n--;
+        return val;
     }
 }
 
-/**
- * Your FrontMiddleBackQueue object will be instantiated and called as such:
- * FrontMiddleBackQueue obj = new FrontMiddleBackQueue();
- * obj.pushFront(val);
- * obj.pushMiddle(val);
- * obj.pushBack(val);
- * int param_4 = obj.popFront();
- * int param_5 = obj.popMiddle();
- * int param_6 = obj.popBack();
- */
