@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
 |  |
 | ------- |
