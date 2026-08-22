@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-design-an-ordered-stream](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1656-design-an-ordered-stream) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1670-design-front-middle-back-queue](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1670-design-front-middle-back-queue) |
+| [1773-count-items-matching-a-rule](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1773-count-items-matching-a-rule) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1773-count-items-matching-a-rule) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3541-find-most-frequent-vowel-and-consonant) |
