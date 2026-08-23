@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1670-design-front-middle-back-queue](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1670-design-front-middle-back-queue) |
 | [1773-count-items-matching-a-rule](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1773-count-items-matching-a-rule) |
+| [1929-concatenation-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1603-design-parking-system) |
+| [1929-concatenation-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3069-distribute-elements-into-two-arrays-i) |
