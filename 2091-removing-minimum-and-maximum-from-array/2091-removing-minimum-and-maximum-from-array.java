@@ -20,9 +20,9 @@ class Solution {
 
        int front=Math.max(maxIdx,minIdx)+1;
        int back=n-Math.min(maxIdx,minIdx);
-       
+
        int both = Math.min(maxIdx, minIdx) + 1
-                + n - Math.max(maxIdx, minIdx);
+            + n - Math.max(maxIdx, minIdx);
 
        return Math.min(front,Math.min(back,both));
     }
