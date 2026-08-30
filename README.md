@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2367-number-of-arithmetic-triplets) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1927-sum-game) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Depth-First Search
 |  |
