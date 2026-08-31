@@ -10,40 +10,50 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        ListNode curr=head.next;
-        ListNode prev=head;
+        int[] ans = new int[2];
+        int idx = 1;
+        int f_idx = -1;
+        int l_idx = -1;
+        int min_dist = Integer.MAX_VALUE;
 
-        int firstIdx=-1;
-        int lastIdx=-1;
-        int minDist=Integer.MAX_VALUE;
-        int idx=1;
+        ListNode a = head;
+        ListNode b = a.next;
+        ListNode c = b.next;
+        if(c==null){     // 2 nodes only
+            ans[0] = -1;
+            ans[1] = -1;
+            return ans;
+        }
 
-        while(curr.next!=null){
-            ListNode next=curr.next;
-
-            boolean isMax=curr.val>prev.val && curr.val>next.val;
-            boolean isMin=curr.val<prev.val && curr.val<next.val;
-
-            if(isMax || isMin){
-                if(lastIdx==-1){
-                    firstIdx=idx;
-                }else{
-                    minDist=Math.min(minDist,idx-lastIdx);
+        while(c!=null){
+            if(b.val<a.val && b.val<c.val || b.val>a.val && b.val>c.val){
+                if(f_idx==-1) f_idx = idx;
+                if(l_idx!=-1) {
+                    int dist = idx - l_idx;
+                    min_dist = Math.min(dist,min_dist);
                 }
-                lastIdx=idx;
+                l_idx = idx;
             }
 
-            prev=curr;
-            curr=next;
             idx++;
+            a = a.next;
+            b = b.next;
+            c = c.next;
+
+               
         }
 
-        if(firstIdx==-1 || firstIdx==lastIdx){
-            return new int[]{-1,-1};
-        }
+        int max_dist = l_idx - f_idx; 
+        if(max_dist == 0)
+            max_dist = -1;
 
-        int maxDist=lastIdx-firstIdx;
+        if(min_dist == Integer.MAX_VALUE)
+            min_dist = -1;
 
-        return new int[]{minDist,maxDist};
+        ans[0] = min_dist;
+        ans[1] = max_dist;
+
+         return ans;
+
     }
 }
