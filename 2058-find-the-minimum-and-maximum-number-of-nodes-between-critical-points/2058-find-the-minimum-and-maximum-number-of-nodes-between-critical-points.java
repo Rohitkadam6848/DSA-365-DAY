@@ -10,39 +10,40 @@
  */
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        ArrayList<Integer> arr=new ArrayList<>();
-        ListNode curr=head;
+        ListNode curr=head.next;
+        ListNode prev=head;
 
-        while(curr!=null){
-            arr.add(curr.val);
-            curr=curr.next;
-        }
+        int firstIdx=-1;
+        int lastIdx=-1;
+        int minDist=Integer.MAX_VALUE;
+        int idx=1;
 
-        //find cirtical points
-        ArrayList<Integer> points=new ArrayList<>();
-        for(int i=1;i<arr.size()-1;i++){
-            if(arr.get(i)>arr.get(i-1) && arr.get(i)>arr.get(i+1)){
-                points.add(i);
-            }else if(arr.get(i)<arr.get(i-1) && arr.get(i)<arr.get(i+1)){
-                points.add(i);
+        while(curr.next!=null){
+            ListNode next=curr.next;
+
+            boolean isMax=curr.val>prev.val && curr.val>next.val;
+            boolean isMin=curr.val<prev.val && curr.val<next.val;
+
+            if(isMax || isMin){
+                if(lastIdx==-1){
+                    firstIdx=idx;
+                }else{
+                    minDist=Math.min(minDist,idx-lastIdx);
+                }
+                lastIdx=idx;
             }
+
+            prev=curr;
+            curr=next;
+            idx++;
         }
 
-        int n=points.size();
-
-        if(n<2){
+        if(firstIdx==-1 || firstIdx==lastIdx){
             return new int[]{-1,-1};
         }
 
-        int minDist=Integer.MAX_VALUE;
-        int maxDist=points.get(n-1)-points.get(0);
-
-        for(int i=1;i<n;i++){
-            minDist=Math.min(minDist,points.get(i)-points.get(i-1));
-        }
+        int maxDist=lastIdx-firstIdx;
 
         return new int[]{minDist,maxDist};
-
-
     }
 }
