@@ -1,14 +1,33 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
         int n=nums1.length;
-        int min=nums1[0];
         int odd=0;
+        int even=0;
+        int min=Integer.MAX_VALUE;
 
-        for(int i=0;i<n;i++){
-            min=Math.min(min,nums1[i]);
-            odd|=nums1[i] & 1;
+        for(int num:nums1){
+            if(num%2==0){
+                even++;
+            }else{
+                odd++;
+                min=Math.min(min,num);
+            }
         }
 
-        return (min & 1)==odd;
+        if(even==n){
+            return true;
+        }else if(odd==n){
+            return true;
+        }else{
+            for(int num:nums1){
+                if(num%2==0){
+                    if(num<min){
+                        return false;
+                    }
+                }
+            }
+
+            return true;
+        }
     }
 }
