@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0875-koko-eating-bananas) |
@@ -362,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
