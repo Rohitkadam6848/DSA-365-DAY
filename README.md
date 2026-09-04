@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3875-construct-uniform-parity-array-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0872-leaf-similar-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1192-critical-connections-in-a-network) |
 | [3310-remove-methods-from-project](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Queue
 |  |
 | ------- |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0498-diagonal-traverse) |
 | [1572-matrix-diagonal-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1572-matrix-diagonal-sum) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2373-largest-local-values-in-a-matrix) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Data Stream
 |  |
 | ------- |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0397-integer-replacement) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
