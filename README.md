@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0917-reverse-only-letters) |
+| [0940-distinct-subsequences-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0397-integer-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0583-delete-operation-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Longest Common Subsequence
