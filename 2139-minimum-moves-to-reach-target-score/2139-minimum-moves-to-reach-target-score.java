@@ -8,6 +8,7 @@ class Solution {
                 moves+=num-1;
                 break;
             }
+            
             if(num%2==0 && maxDoubles>0){
                 maxDoubles--;
                 moves++;
