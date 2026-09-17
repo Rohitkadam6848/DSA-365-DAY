@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1670-design-front-middle-back-queue](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1670-design-front-middle-back-queue) |
 | [1773-count-items-matching-a-rule](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1773-count-items-matching-a-rule) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -391,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3483-unique-3-digit-even-numbers) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
