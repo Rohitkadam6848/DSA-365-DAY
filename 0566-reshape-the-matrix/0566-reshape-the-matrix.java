@@ -9,20 +9,9 @@ class Solution {
 
 
         int[][] ans=new int[r][c];
-        int index=0;
 
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-
-                int orgRow=index/m;
-                int orgCol=index%m;
-
-                ans[i][j]=mat[orgRow][orgCol];
-                
-                index++;
-                    
-            }
-                
+        for(int i=0;i<m*n;i++){
+            ans[i/c][i%c]=mat[i/m][i%m];         
         }
         
 
