@@ -1,6 +1,7 @@
 class Solution {
     int prefixSum[];
     int totalSum;
+    Random ran;
 
     public Solution(int[] w) {
         prefixSum=new int[w.length];
@@ -15,7 +16,7 @@ class Solution {
     }
     
     public int pickIndex() {
-        Random ran=new Random();
+        ran=new Random();
         int target=ran.nextInt(totalSum)+1;
 
         int st=0;
