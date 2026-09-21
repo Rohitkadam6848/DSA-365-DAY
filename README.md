@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0229-majority-element-ii) |
 | [0498-diagonal-traverse](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0506-relative-ranks) |
+| [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0566-reshape-the-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0415-add-strings) |
+| [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1323-maximum-69-number) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0374-guess-number-higher-or-lower) |
+| [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0875-koko-eating-bananas) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1480-running-sum-of-1d-array) |
@@ -403,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
