@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1470-shuffle-the-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1323-maximum-69-number) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1927-sum-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-design-an-ordered-stream](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1656-design-an-ordered-stream) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0724-find-pivot-index) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1480-running-sum-of-1d-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Linked List
 |  |
