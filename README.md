@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0415-add-strings) |
 | [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0115-distinct-subsequences) |
+| [0171-excel-sheet-column-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0171-excel-sheet-column-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0383-ransom-note) |
