@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1670-design-front-middle-back-queue](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1670-design-front-middle-back-queue) |
+| [1732-find-the-highest-altitude](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1773-count-items-matching-a-rule) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1920-build-array-from-permutation) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1732-find-the-highest-altitude) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3903-smallest-stable-index-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3904-smallest-stable-index-ii) |
