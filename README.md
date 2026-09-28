@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0119-pascals-triangle-ii) |
+| [0137-single-number-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0137-single-number-ii) |
 | [0397-integer-replacement](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0397-integer-replacement) |
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
