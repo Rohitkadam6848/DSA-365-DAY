@@ -1,20 +1,20 @@
 class Solution {
     public int[] maxDepthAfterSplit(String seq) {
-        int[] answer = new int[seq.length()];
-        int currentGroup = 1;
+        int n = seq.length();
+        int[] ans = new int[n];
+        int open = 0;
+        int i = 0;
 
-        for (int index = 0; index < seq.length(); index++) {
-            char bracket = seq.charAt(index);
-
-            if (bracket == '(') {
-                answer[index] = 1 - currentGroup;
-            } else {
-                answer[index] = currentGroup;
+        for(char ch : seq.toCharArray()){
+            if(ch == '('){
+                open++;
+                ans[i] = open % 2;
+            }else{
+                ans[i] = open % 2;
+                open--;
             }
-
-            currentGroup ^= 1;
+            i++;
         }
-
-        return answer;
+        return ans;
     }
 }
