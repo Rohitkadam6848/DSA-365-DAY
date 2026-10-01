@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0171-excel-sheet-column-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0020-valid-parentheses) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
