@@ -1,22 +1,29 @@
+import java.util.*;
+
 class Solution {
-    public void genratePar(int n,List<String> ans,int openCount,int closingCount,String str){
-        if(closingCount==n){
-            ans.add(str);
+    public List<String> generateParenthesis(int n) {
+        List<String> ans = new ArrayList<>();
+        char[] s = new char[2 * n];
+        solve(ans, s, 0, 0, 0, n);
+        return ans;
+    }
+
+    private void solve(List<String> ans, char[] s, int pos,
+                       int open, int close, int n) {
+
+        if (pos == s.length) {
+            ans.add(new String(s));
             return;
         }
 
-        if(openCount<n){
-            genratePar(n,ans,openCount+1,closingCount,str+"(");
+        if (open < n) {
+            s[pos] = '(';
+            solve(ans, s, pos + 1, open + 1, close, n);
         }
 
-        if(closingCount<openCount){
-            genratePar(n,ans,openCount,closingCount+1,str+")");
+        if (close < open) {
+            s[pos] = ')';
+            solve(ans, s, pos + 1, open, close + 1, n);
         }
-    }
-    public List<String> generateParenthesis(int n) {
-        List<String> ans=new ArrayList<>();
-        genratePar(n,ans,0,0,"");
-        return ans;
-
     }
 }
