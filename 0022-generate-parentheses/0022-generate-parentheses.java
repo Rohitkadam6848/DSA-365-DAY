@@ -8,8 +8,7 @@ class Solution {
         return ans;
     }
 
-    private void solve(List<String> ans, char[] s, int pos,
-                       int open, int close, int n) {
+    private void solve(List<String> ans, char[] s, int pos,int open, int close, int n) {
 
         if (pos == s.length) {
             ans.add(new String(s));
