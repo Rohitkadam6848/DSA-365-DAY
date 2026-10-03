@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1323-maximum-69-number) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1927-sum-game](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1927-sum-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1528-shuffle-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1528-shuffle-string) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1768-merge-strings-alternately) |
