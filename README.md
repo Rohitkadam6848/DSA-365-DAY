@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0940-distinct-subsequences-ii) |
 | [1002-find-common-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0397-integer-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
