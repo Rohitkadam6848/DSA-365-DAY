@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2404-most-frequent-even-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2404-most-frequent-even-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2367-number-of-arithmetic-triplets) |
+| [2404-most-frequent-even-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2404-most-frequent-even-element) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-design-parking-system](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1603-design-parking-system) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2404-most-frequent-even-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2404-most-frequent-even-element) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
