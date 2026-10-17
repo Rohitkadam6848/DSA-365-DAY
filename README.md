@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0119-pascals-triangle-ii) |
 | [0137-single-number-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0137-single-number-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0229-majority-element-ii) |
