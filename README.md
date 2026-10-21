@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0374-guess-number-higher-or-lower) |
 | [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0374-guess-number-higher-or-lower) |
 ## Recursion
 |  |
