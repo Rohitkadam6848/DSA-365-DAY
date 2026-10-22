@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1389-create-target-array-in-the-given-order) |
+| [1408-string-matching-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1408-string-matching-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1408-string-matching-in-an-array) |
 | [1528-shuffle-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1528-shuffle-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1573-number-of-ways-to-split-a-string) |
@@ -545,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0881-boats-to-save-people) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
