@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1995-count-special-quadruplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1995-count-special-quadruplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2404-most-frequent-even-element](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2404-most-frequent-even-element) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1534-count-good-triplets) |
+| [1995-count-special-quadruplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1995-count-special-quadruplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3345-smallest-divisible-digit-product-i) |
