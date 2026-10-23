@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3875-construct-uniform-parity-array-i) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1386-cinema-seat-allocation) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Linked List
 |  |
 | ------- |
