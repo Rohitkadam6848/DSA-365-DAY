@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1927-sum-game) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2409-count-days-spent-together](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3163-string-compression-iii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3498-reverse-degree-of-a-string) |
