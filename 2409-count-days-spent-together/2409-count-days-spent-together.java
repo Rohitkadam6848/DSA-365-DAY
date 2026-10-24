@@ -1,0 +1,33 @@
+class Solution {
+    public int convert(String date,int days[]){
+        
+        int month=Integer.parseInt(date.substring(0,2));
+        int day=Integer.parseInt(date.substring(3,5));
+
+        int total=day;
+
+        for(int i=0;i<month-1;i++){
+            total+=days[i];
+        }
+
+        return total;
+    }
+
+    public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
+
+        int days[]={31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30,31};
+
+        int a1=convert(arriveAlice, days);
+        int a2=convert(arriveBob, days);
+
+        int l1=convert(leaveAlice, days);
+        int l2=convert(leaveBob, days);
+
+        int st=Math.max(a1,a2);
+        int end=Math.min(l1,l2);
+
+        return Math.max(0,end-st+1);
+    }
+
+
+}
