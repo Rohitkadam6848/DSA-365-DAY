@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0657-robot-return-to-origin) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1222-queens-that-can-attack-the-king) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1603-design-parking-system) |
 | [1920-build-array-from-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1920-build-array-from-permutation) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0566-reshape-the-matrix) |
+| [1222-queens-that-can-attack-the-king](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1572-matrix-diagonal-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
