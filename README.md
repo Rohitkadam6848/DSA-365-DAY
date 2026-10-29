@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1927-sum-game) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
