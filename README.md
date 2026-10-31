@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3875-construct-uniform-parity-array-i) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3665-twisted-mirror-path-count](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3665-twisted-mirror-path-count) |
 ## Longest Common Subsequence
 |  |
 | ------- |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2373-largest-local-values-in-a-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3665-twisted-mirror-path-count) |
 ## Data Stream
 |  |
 | ------- |
