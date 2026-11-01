@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0498-diagonal-traverse](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0506-relative-ranks) |
 | [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0002-add-two-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1295-find-numbers-with-even-number-of-digits) |
