@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1670-design-front-middle-back-queue](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1670-design-front-middle-back-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1773-count-items-matching-a-rule) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1222-queens-that-can-attack-the-king) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1603-design-parking-system) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Greedy
 |  |
 | ------- |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1670-design-front-middle-back-queue](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1670-design-front-middle-back-queue) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
