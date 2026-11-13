@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0171-excel-sheet-column-number) |
 | [0415-add-strings](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0278-first-bad-version) |
@@ -624,4 +626,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
