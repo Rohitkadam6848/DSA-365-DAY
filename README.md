@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Two Pointers
 |  |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2485-find-the-pivot-integer) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
