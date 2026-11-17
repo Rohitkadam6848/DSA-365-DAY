@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0528-random-pick-with-weight) |
 | [0566-reshape-the-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0695-max-area-of-island](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0695-max-area-of-island) |
 | [0872-leaf-similar-trees](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0872-leaf-similar-trees) |
 | [1192-critical-connections-in-a-network](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1192-critical-connections-in-a-network) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1254-number-of-closed-islands) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0695-max-area-of-island](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0498-diagonal-traverse) |
 | [0566-reshape-the-matrix](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0566-reshape-the-matrix) |
+| [0695-max-area-of-island](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0695-max-area-of-island) |
 | [1222-queens-that-can-attack-the-king](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1572-matrix-diagonal-sum) |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Interactive
