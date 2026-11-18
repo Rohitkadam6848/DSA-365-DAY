@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3163-string-compression-iii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Rohitkadam6848/DSA-365-DAY/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
